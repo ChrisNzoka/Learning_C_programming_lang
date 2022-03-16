@@ -1,9 +1,13 @@
 #include <stdio.h>
 
 /*
-*   Write a program that uses getchar() and putchar()
+*   main:   Entry point   
+*
+*   Description: Write a program that uses getchar() and putchar()
 *   to read in a character entered by the user and
 *   write the character to the screen.
+*
+*   Return: 0. 
 */
 
 int main(void)
