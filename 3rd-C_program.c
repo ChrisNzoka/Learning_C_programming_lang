@@ -14,5 +14,5 @@ int main()
   
   y_value = integer_value(3);
   printf("y is %d.\n", y_value);
-  return 0;
+  return (0);
 }

@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 int multiply_integers(int x, int y)
-
 {
   int prod;
   prod = x*y;
@@ -10,11 +9,9 @@ int multiply_integers(int x, int y)
 }
 
 int main()
-
 {
   int prod_1;
-
   prod_1 = multiply_integers(50, 65);
   printf("The product of 50 by 65 is %d.\n", prod_1);
-  return 0;
+  return (0);
 }

@@ -9,8 +9,6 @@ main()
     /*Initializing variables*/
     fahr = 0;   
     celcius = 5 * (fahr - 32) / 9;
-
-    printf("^F\t^C\n");
     printf("%d\t%d\n", fahr, celcius);
 
 /*Above is the initial action to convert ^F to ^C*/
