@@ -13,7 +13,7 @@ int main(void)
    do
    {
        printf("The ASCII value of %c is: %d\n", tdb, tdb);
-       tdb = ++tdb;
+       tdb++;
    } while (tdb <= 'J');
    return (0);
 }

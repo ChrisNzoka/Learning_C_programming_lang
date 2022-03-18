@@ -15,7 +15,7 @@ int main(void)
 
   c = ' ';
   puts("Enter a character: \n(enter x to exit)\n");
-  while (c != 'x')
+  while (c != 'K')
   {
     c = getc(stdin);
     putchar(c);

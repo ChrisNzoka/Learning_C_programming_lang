@@ -10,7 +10,7 @@
 int main(void)
 {
     double dbl_num = 123.456;
-    printf("%f %e\n", dbl_num, dbl_num);
+    printf("%f %2.2e\n", dbl_num, dbl_num);
     printf("The floating-point format of 123.456 is: %f\n", dbl_num);
     printf("The scientific notation format of 123.456 is: %e\n", dbl_num);
     return (0);
