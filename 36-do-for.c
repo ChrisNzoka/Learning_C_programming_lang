@@ -16,5 +16,5 @@ int main(void)
     {
         printf("Integer value of %c is: %d\n", i, i);
     }
-    return (0)
+    return (0);
 }

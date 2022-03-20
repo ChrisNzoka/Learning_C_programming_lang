@@ -15,6 +15,5 @@ int main(void)
     printf("Kindly enter a charater: ");
     char a1 = getchar();
     putchar(a1);
-        putchar(10);
     return (0);
 }
