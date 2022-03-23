@@ -1,1 +1,1 @@
-Repo for basic C programs to learn the C language
+# Learning C language
