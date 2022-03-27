@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Description - practise for Arrays 
+ * Description - practice for Arrays 
  * returns 0 on success
  */
 
@@ -44,7 +44,8 @@ int main(void)
 
     printf("Enter a username: ");
     scanf("%s", user_name);
-    printf("Your username is: %s\n", user_name);
+    printf("Your username is: %s\n", user_name); 
+    /* notice there is no need for '&' when getting a string input */
 
     printf("Enter your favourite  number: ");
     scanf("%d", &fav_number);

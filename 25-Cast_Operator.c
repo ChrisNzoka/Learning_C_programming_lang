@@ -1,4 +1,7 @@
-/* Using the cast operator */
+/** Using the cast operator
+*   Cast operators can help to output a
+*   datatype different from the one declared
+*/
 #include <stdio.h>
 int main(void)
 {

@@ -4,7 +4,7 @@
 
 int main(void)
 {
-    int correct_num = 13;
+    const int correct_num = 13;
     int user_guess;
     int guessCount = 0;
     int countLimit = 3;

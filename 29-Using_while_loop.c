@@ -13,12 +13,10 @@ int main(void)
 {
   int c;
 
-  c = ' ';
-  puts("Enter a character: \n(enter x to exit)\n");
+  puts("Guess the correct character to exit the loop: ");
   while (c != 'K')
   {
     c = getc(stdin);
-    putchar(c);
   }
   printf("\nOut of the while loop. Have a nice day!!!\n");
   return (0);

@@ -11,9 +11,9 @@
 
 int main(void)
 {
-    double num1, num2;
+    int num1, num2;
 
-    printf("%-10.2f\n", switch_calc(num1, num2));
+    printf("%4d\n", bit_calc(num1, num2));
 
     return (0);
 }

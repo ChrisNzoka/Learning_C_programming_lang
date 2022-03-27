@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* PractisingIf statement  */
+/* Practising If statement  */
 
 
 int highest(int num1, int num2, int num3)
